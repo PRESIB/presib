@@ -1,6 +1,6 @@
 AUTHOR = 'Nuno Fernandes'
 SITENAME = 'PRESIB'
-SITEURL = ''
+SITEURL = 'https://presib.github.io/presib/'
 
 PATH = 'content'
 
