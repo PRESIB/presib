@@ -63,6 +63,8 @@ Description: Host documentation mentioned on the articles. Each branch is relate
 
 # Helios Models 
 
+Resource Holon Net
+![resourceHolon](https://user-images.githubusercontent.com/1274022/181920774-3311ec16-6605-4e41-92f4-cbe05e8c5476.svg | width=100)
  
 
 # <a id="simulations_resources"></a>Simulations Resources 
