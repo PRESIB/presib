@@ -61,13 +61,16 @@ Description: Host documentation mentioned on the articles. Each branch is relate
 
  
 
-# Helios Models 
+# <a id="helios-models"></a>Helios Models 
 
-Resource Holon Net
+The Helios models are available on the [repository](https://github.com/PRESIB/helios), the following images contains the link for each one of the nets.
 <div>
-<a href="https://github.com/PRESIB/documentation/blob/dissertation_2022/chapter4-presib-model/helios/productHolon.svg" target="_blank">
+
 <img width="150" src="https://user-images.githubusercontent.com/1274022/181920774-3311ec16-6605-4e41-92f4-cbe05e8c5476.svg"> 
-<br> Resource Holon net</a>
+<br> 
+<a href="https://github.com/PRESIB/documentation/blob/dissertation_2022/chapter4-presib-model/helios/productHolon.svg" target="_blank">Resource Holon net on Repositort</a>
+<br>
+<a href="https://raw.githubusercontent.com/PRESIB/documentation/aaec5fe35cdebd55a256e8f0a08266cb7546c2c2/chapter4-presib-model/helios/productHolon.svg" target="_blank">View Image in full screen</a>
 </div>
 
 # <a id="simulations_resources"></a>Simulations Resources 
