@@ -65,7 +65,7 @@ Description: Host documentation mentioned on the articles. Each branch is relate
 
  
 
-# <a id="simulations_and_resources"></a>Simulations Resources 
+# <a id="simulations_resources"></a>Simulations Resources 
 
 
 
