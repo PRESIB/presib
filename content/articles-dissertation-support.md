@@ -7,7 +7,7 @@ Summary: This article provides content related to Nuno Fernandes' dissertation e
 
 ## Modelo Gráfico para Simulação e Controlo do Chão de Fábrica no Contexto da Indústria 5.0
 
-This article provides the links to files, documentation and information mentioned on Nuno Fernandes’ dissertation. It is organized as follows: 
+This article provides the links to files, documentation and information mentioned on Nuno Fernandes’ dissertation to be presented on IPBeja. It is organized as follows: 
 
  
 
@@ -68,12 +68,12 @@ The Helios models are available on the [repository](https://github.com/PRESIB/he
 
 <img width="150" src="https://user-images.githubusercontent.com/1274022/181920774-3311ec16-6605-4e41-92f4-cbe05e8c5476.svg"> 
 <br> 
-<a href="https://github.com/PRESIB/documentation/blob/dissertation_2022/chapter4-presib-model/helios/productHolon.svg" target="_blank">Resource Holon net on Repositort</a>
+<a href="https://github.com/PRESIB/documentation/blob/dissertation_2022/chapter4-presib-model/helios/productHolon.svg" target="_blank">Resource Holon net on Repository</a>
 <br>
 <a href="https://raw.githubusercontent.com/PRESIB/documentation/aaec5fe35cdebd55a256e8f0a08266cb7546c2c2/chapter4-presib-model/helios/productHolon.svg" target="_blank">View Image in full screen</a>
 </div>
 
-# <a id="simulations_resources"></a>Simulations Resources 
+# <a id="simulations-resources"></a>Simulations Resources 
 
 
 
