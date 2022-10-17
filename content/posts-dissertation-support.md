@@ -1,5 +1,5 @@
-Title: PRESIB - Helper post for Nuno Fernandes' dissertation
-Date: 30/07/2020
+Title: Dissertation Related Content
+Date: 30/07/2022
 Category: Blog
 Tags: presib, dissertation
 Author: Nuno Fernandes

@@ -16,10 +16,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Helios', 'https://github.com/PRESIB/helios'),
+         ('Hermes', 'https://github.com/PRESIB/hermes'),
+         ('Hephaestus', 'https://github.com/PRESIB/hephaestus'),
+         ('Ponos', 'https://github.com/PRESIB/ponos'),)
 
 # Social widget
 SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/nfriacowboy/'),)
