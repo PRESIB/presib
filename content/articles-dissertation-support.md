@@ -25,7 +25,7 @@ PRESIB project is hosted on GitHub and is composed by the following repositories
 
 Description: This repository contains the source code of this web site. It is built using <a href="https://getpelican.com/" target="_blank">Pelican</a>.
 
-Link:  https://github.com/PRESIB/presib
+Link:  <a href="https://github.com/PRESIB/presib" target="_blank">https://github.com/PRESIB/presib</a>
 
 ## <a id="helios">Helios</a> 
 
@@ -57,7 +57,7 @@ Link: a href="https://github.com/PRESIB/ponos" target="_blank">https://github.co
 
 ## Presib-model 
 
-Description: Legacy repository that holds information related with the article [A Graphical and Executable Model for Production Simulation in the Context of Industry 5.0.](https://ieeexplore.ieee.org/document/9831527) This repository will not be updated. 
+Description: Legacy repository that holds information related with the article [A Graphical and Executable Model for Production Simulation in the Context of Industry 5.0.](https://ieeexplore.ieee.org/document/9831527) This repository has been archived and is not mantained any more. 
 
 Link: 
 
@@ -69,15 +69,45 @@ Description: Host documentation mentioned on the articles. Each branch is relate
 
 # <a id="helios-models"></a>Helios Models 
 
-The Helios models are available on the [repository](https://github.com/PRESIB/helios), the following images contains the link for each one of the nets.
-<div>
+List of the available hets that compose the Helios <a href="https://github.com/PRESIB/helios" target="_blank">repository</a>
 
-<img width="150" src="https://user-images.githubusercontent.com/1274022/181920774-3311ec16-6605-4e41-92f4-cbe05e8c5476.svg"> 
-<br> 
-<a href="https://github.com/PRESIB/documentation/blob/dissertation_2022/chapter4-presib-model/helios/productHolon.svg" target="_blank">Resource Holon net on Repository</a>
-<br>
-<a href="https://raw.githubusercontent.com/PRESIB/documentation/aaec5fe35cdebd55a256e8f0a08266cb7546c2c2/chapter4-presib-model/helios/productHolon.svg" target="_blank">View Image in full screen</a>
-</div>
+<table>
+<tr>
+<th>Playground</th>
+<th>Product Holon</th>
+<th>Resource Holon</th>
+<th>Service Register</th>
+<th>Holon Communicator</th>
+<th>MQTT Message Receiver</th>
+</tr>
+
+<tr>
+<td><img width="150" src="https://raw.githubusercontent.com/PRESIB/helios/master/images/playground.svg"></td>
+<td><img width="150" src="https://raw.githubusercontent.com/PRESIB/helios/master/images/productHolon.svg"></td>
+<td><img width="150" src="https://raw.githubusercontent.com/PRESIB/helios/master/images/resourceHolon.svg"></td>
+<td><img width="150" src="https://raw.githubusercontent.com/PRESIB/helios/master/images/service_register.svg"></td>
+<td><img width="150" src="https://raw.githubusercontent.com/PRESIB/helios/master/images/holon_communicator.svg"></td>
+<td><img width="150" src="https://raw.githubusercontent.com/PRESIB/helios/master/images/mqtt_message_receiver.svg"></td>
+</tr>
+<tr>
+<td><a href="https://github.com/PRESIB/helios/blob/32aef2b2200d7bde7de39699edd0cf217fef2031/imges/playground.svg" target="_blank">File on Repository</a></td>
+<td><a href="https://github.com/PRESIB/helios/blob/3b253c995de783ffed2eec4dc59b600d98131d4a/images/productHolon.svg" target="_blank">File on Repository</a></td>
+<td><a href="https://github.com/PRESIB/helios/blob/3b253c995de783ffed2eec4dc59b600d98131d4a/images/resourceHolon.svg" target="_blank">File on Repository</a></td>
+<td><a href="https://github.com/PRESIB/helios/blob/3b253c995de783ffed2eec4dc59b600d98131d4a/images/service_register.svg" target="_blank">File on Repository</a></td>
+<td><a href="https://github.com/PRESIB/helios/blob/3b253c995de783ffed2eec4dc59b600d98131d4a/images/holon_communicator.svg" target="_blank">File on Repository</a></td>
+<td><a href="https://github.com/PRESIB/helios/blob/3b253c995de783ffed2eec4dc59b600d98131d4a/images/mqtt_message_receiver.svg" target="_blank">File on Repository</a></td>
+</tr>
+<tr>
+<td><a href="https://raw.githubusercontent.com/PRESIB/helios/master/images/playground.svg" target="_blank">View Image in full screen</a></td>
+<td><a href="https://raw.githubusercontent.com/PRESIB/helios/master/images/productHolon.svg" target="_blank">View Image in full screen</a></td>
+<td><a href="https://raw.githubusercontent.com/PRESIB/helios/master/images/resourceHolon.svg" target="_blank">View Image in full screen</a></td>
+<td><a href="https://raw.githubusercontent.com/PRESIB/helios/master/images/service_register.svg" target="_blank">View Image in full screen</a></td>
+<td><a href="https://raw.githubusercontent.com/PRESIB/helios/master/images/holon_communicator.svg" target="_blank">View Image in full screen</a></td>
+<td><a href="https://raw.githubusercontent.com/PRESIB/helios/master/images/mqtt_message_receiver.svg" target="_blank">View Image in full screen</a></td>
+</tr>
+</table>
+
+
 
 # <a id="simulations-resources"></a>Simulations Resources 
 
